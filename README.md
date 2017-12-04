@@ -1,7 +1,6 @@
 # Gardener
 
-![Alt text](https://g.gravizo.com/svg?
-  digraph G {
+![Alt text](https://g.gravizo.com/svg?digraph G {
     edge[fontsize=12];
     App[label="Seequent App"] ;
     TenDuke[label="10Duke",shape=rect,style=filled];
